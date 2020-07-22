@@ -2,7 +2,7 @@
 
 A simple file to keep track of my progress & posts in the `#50daysofudacity` Slack channel, after my acceptance to the Microsoft Azure Machine Learning Scholarship by Microsoft.
 
-![ScholarshipBadge](./img/MicrosoftML_FoundationCourse_Scholarship.jpg "Microsoft Scholarship Badge")
+<span style="display:block;text-align:center">![ScholarshipBadge](./img/MicrosoftML_FoundationCourse_Scholarship.jpg "Microsoft Scholarship Badge")</span>
 
 ___
 
@@ -22,8 +22,8 @@ In order to take part in this challenge, I have to:
 
 The goal of this page is to track down the above so that I follow my progress easily and make sure not to miss a post, i.e. create my sort of **Captain's Log Book**!
 
-![CaptainsLogBook](./img/CaptainsLogBook2.JPG "Captain's Log Book")
-*Photo taken from: https://bostonraremaps.com/inventory/frederick-livington-campbell-log-book/*
+<span style="display:block;text-align:center">![CaptainsLogBook](./img/CaptainsLogBook.JPG "Captain's Log Book")</span>
+<span style="display:block;text-align:center">*Photo taken from: https://bostonraremaps.com/inventory/frederick-livington-campbell-log-book/*</span>
 
 ___
 
