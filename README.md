@@ -12,18 +12,19 @@ The premise of the challenge is to build a habit of consistent practice of new s
 
 In order to take part in this challenge, I have to:
 
-- [x] Take the public pledge *--> Done!*
+- **[x] Take the public pledge *--> Done!***
 
-- [ ] Code or practice the topics of the Foundation Course for 30 minutes everyday. *--> In progress*
+- **[ ] Code or practice the topics of the Foundation Course for 30 minutes everyday.** *--> In progress*
 
-- [ ] Post a short announcement in the  `#50daysofudacity` Slack channel, summarizing my day and note which day I am on. *--> In progress*
+- **[ ] Post a short announcement in the  `#50daysofudacity` Slack channel, summarizing my day and note which day I am on.** *--> In progress*
 
-- [ ] Encourage &  Support at least 2 peers every day. *--> In progress*
+- **[ ] Encourage &  Support at least 2 peers every day.** *--> In progress*
 
 The goal of this page is to track down the above so that I follow my progress easily and make sure not to miss a post, i.e. create my sort of **Captain's Log Book**!
 
 ![CaptainsLogBook](./img/CaptainsLogBook2.JPG "Captain's Log Book")
 *Photo taken from: https://bostonraremaps.com/inventory/frederick-livington-campbell-log-book/*
+
 ___
 
 * For the motivational quote of the day, I built my own quote generator machine. You can try it here: https://dimikara.github.io/Quote-Generator/
