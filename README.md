@@ -31,6 +31,21 @@ ___
 * For the motivational quote of the day, I built my own quote generator machine. You can try it <a href=" https://dimikara.github.io/Quote-Generator/" target="_blank">here</a>.
 
 ___
+___
+
+## **Milestones**
+
+
+| Milestone | Day | Achieved |
+| :---: | :---: | :---: |
+| 1st | 10  | [ x ] |
+| 2nd | 25 | [ ] |
+| 3rd | 35 | [ ] |
+| 4th | 50 | [ ] |
+
+___
+___
+
 
 ## **Day 10:** 
 
