@@ -23,6 +23,7 @@ In order to take part in this challenge, I have to:
 The goal of this page is to track down the above so that I follow my progress easily and make sure not to miss a post, i.e. create my sort of **Captain's Log Book**!
 
 <span style="display:block;text-align:center">![CaptainsLogBook](./img/CaptainsLogBook.JPG "Captain's Log Book")</span>
+
 <span style="display:block;text-align:center">*Photo taken from: https://bostonraremaps.com/inventory/frederick-livington-campbell-log-book/*</span>
 
 ___
