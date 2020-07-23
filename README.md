@@ -40,16 +40,24 @@ ___
 | :---: | :---: | :---: |
 | 1st | 10  | [ x ] |
 | 2nd | 25 | [ ] |
-| 3rd | 35 | [ ] |
+| 3rd | 40 | [ ] |
 | 4th | 50 | [ ] |
 
 ___
 ___
 
+## **Day 11:** 
+
+*Tuesday, July 23st, 2020*
+
+![Day11](./img/Day11.JPG "Day 11 Slack post")
+
+___
+
 
 ## **Day 10:** 
 
-*Tuesday, July 21st, 2020*
+*Tuesday, July 22nd, 2020*
 
 ![Day10](./img/Day10.JPG "Day 10 Slack post")
 
