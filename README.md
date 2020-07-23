@@ -28,7 +28,7 @@ The goal of this page is to track down the above so that I follow my progress ea
 
 ___
 
-* For the motivational quote of the day, I built my own quote generator machine. You can try it <a href=" https://dimikara.github.io/Quote-Generator/" target="_blank">here</a>.
+* For the motivational quote of the day, I built my own quote generator machine. You can try it here: https://dimikara.github.io/Quote-Generator.
 
 ___
 ___
