@@ -46,9 +46,18 @@ ___
 ___
 ___
 
+
+## **Day 12:** 
+
+*Tuesday, July 24th, 2020*
+
+![Day11](./img/Day12.JPG "Day 12 Slack post")
+
+___
+
 ## **Day 11:** 
 
-*Tuesday, July 23st, 2020*
+*Tuesday, July 23rd, 2020*
 
 ![Day11](./img/Day11.JPG "Day 11 Slack post")
 
@@ -101,7 +110,7 @@ ___
 
 My posts for days 1-5 are no longer accessible in Slack, as the workspace has a limit of 10,000 messages.
 I no longer remember details but during these first five days I had my first contact with the Azure environment and finished the first two lessons and the labs.
-___
+
 
 
 
