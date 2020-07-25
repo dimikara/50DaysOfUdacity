@@ -46,12 +46,20 @@ ___
 ___
 ___
 
+## **Day 13:** 
+
+*Tuesday, July 25th, 2020*
+
+![Day13](./img/Day13.JPG "Day 13 Slack post")
+
+___
+
 
 ## **Day 12:** 
 
 *Tuesday, July 24th, 2020*
 
-![Day11](./img/Day12.JPG "Day 12 Slack post")
+![Day12](./img/Day12.JPG "Day 12 Slack post")
 
 ___
 
