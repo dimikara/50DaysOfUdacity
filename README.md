@@ -12,7 +12,7 @@ The premise of the challenge is to build a habit of consistent practice of new s
 
 In order to take part in this challenge, I have to:
 
-- **[x] Take the public pledge *--> Done!***
+- **[x] Take the public pledge** *--> Done*
 
 - **[ ] Code or practice the topics of the Foundation Course for 30 minutes everyday.** *--> In progress*
 
@@ -123,7 +123,7 @@ ___
 
 ## **Days 1-5:** 
 
-*Monday, July 13rd, 2020* until *Friday, July 17th, 2020*
+*Monday, July 13th, 2020* until *Friday, July 17th, 2020*
 
 My posts for days 1-5 are no longer accessible in Slack, as the workspace has a limit of 10,000 messages.
 I no longer remember details but during these first five days I had my first contact with the Azure environment and finished the first two lessons and the labs.
