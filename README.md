@@ -48,7 +48,7 @@ ___
 
 ## **Day 14:** 
 
-*Tuesday, July 26th, 2020*
+*Sunday, July 26th, 2020*
 
 ![Day14](./img/Day14.JPG "Day 14 Slack post")
 
@@ -57,7 +57,7 @@ ___
 
 ## **Day 13:** 
 
-*Tuesday, July 25th, 2020*
+*Saturday, July 25th, 2020*
 
 ![Day13](./img/Day13.JPG "Day 13 Slack post")
 
@@ -66,7 +66,7 @@ ___
 
 ## **Day 12:** 
 
-*Tuesday, July 24th, 2020*
+*Friday, July 24th, 2020*
 
 ![Day12](./img/Day12.JPG "Day 12 Slack post")
 
@@ -74,7 +74,7 @@ ___
 
 ## **Day 11:** 
 
-*Tuesday, July 23rd, 2020*
+*Thursday, July 23rd, 2020*
 
 ![Day11](./img/Day11.JPG "Day 11 Slack post")
 
@@ -83,7 +83,7 @@ ___
 
 ## **Day 10:** 
 
-*Tuesday, July 22nd, 2020*
+*Wednesday, July 22nd, 2020*
 
 ![Day10](./img/Day10.JPG "Day 10 Slack post")
 
