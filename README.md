@@ -46,6 +46,14 @@ ___
 ___
 ___
 
+## **Day 16:** 
+
+*Tuesday, July 28th, 2020*
+
+![Day16](./img/Day16.JPG "Day 16 Slack post")
+
+___
+
 ## **Day 15:** 
 
 *Monday, July 27th, 2020*
