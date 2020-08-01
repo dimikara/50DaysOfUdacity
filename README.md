@@ -28,7 +28,7 @@ The goal of this page is to track down the above so that I follow my progress ea
 
 ___
 
-* For the motivational quote of the day, I built my own quote generator machine. You can get your own motivational quote here: https://dimikara.github.io/Quote-Generator.
+* For the motivational quote of the day, I built my own quote machine. Get your motivational quote here: https://dimikara.github.io/Quote-Generator.
 
 ___
 ___
@@ -45,6 +45,15 @@ ___
 
 ___
 ___
+
+## **Day 20:** 
+
+*Saturday, August 1st, 2020*
+
+![Day20](./img/Day20.JPG "Day 20 Slack post")
+
+___
+
 
 ## **Day 19:** 
 
