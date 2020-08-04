@@ -46,6 +46,14 @@ ___
 ___
 ___
 
+## **Day 23:** 
+
+*Tuesday, August 4th, 2020*
+
+![Day23](./img/Day23.JPG "Day 23 Slack post")
+
+___
+
 ## **Day 22:** 
 
 *Monday, August 3rd, 2020*
