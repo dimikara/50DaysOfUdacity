@@ -39,11 +39,19 @@ ___
 | Milestone | Day | Achieved |
 | :---: | :---: | :---: |
 | 1st | 10  | [ x ] |
-| 2nd | 25 | [ ] |
+| 2nd | 25 | [ x ] |
 | 3rd | 40 | [ ] |
 | 4th | 50 | [ ] |
 
 ___
+___
+
+## **Day 24:** 
+
+*Thursday, August 6th, 2020*
+
+![Day25](./img/Day25.JPG "Day 25 Slack post")
+
 ___
 
 ## **Day 24:** 
