@@ -46,6 +46,14 @@ ___
 ___
 ___
 
+## **Day 30:** 
+
+*Tuesday, August 11th, 2020*
+
+![Day30](./img/Day30.JPG "Day 30 Slack post")
+
+___
+
 ## **Day 29:** 
 
 *Monday, August 10th, 2020*
