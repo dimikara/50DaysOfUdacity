@@ -46,6 +46,14 @@ ___
 ___
 ___
 
+## **Day 34:** 
+
+*Saturday, August 15th, 2020*
+
+![Day34](./img/Day34.JPG "Day 34 Slack post")
+
+___
+
 ## **Day 33:** 
 
 *Friday, August 14th, 2020*
