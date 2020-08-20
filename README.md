@@ -46,6 +46,14 @@ ___
 ___
 ___
 
+## **Day 39:** 
+
+*Thursday, August 20th, 2020*
+
+![Day39](./img/Day39.JPG "Day 39 Slack post")
+
+___
+
 ## **Day 38:** 
 
 *Wednesday, August 19th, 2020*
