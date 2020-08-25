@@ -41,9 +41,17 @@ ___
 | 1st | 10  | [ x ] |
 | 2nd | 25 | [ x ] |
 | 3rd | 40 | [ x ] |
-| 4th | 50 | [ ] |
+| End of challenge | 50 | [ ] |
 
 ___
+___
+
+## **Day 44:** 
+
+*Tuesday, August 25th, 2020*
+
+![Day44](./img/Day44.JPG "Day 44 Slack post")
+
 ___
 
 ## **Day 43:** 
