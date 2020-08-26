@@ -52,6 +52,10 @@ ___
 
 ![Day45](./img/Day45.JPG "Day 45 Slack post")
 
+![PythonQuiz](./img/Quiz_26-08-2020_PYTHON.JPG "Python Quiz")
+![MachineLearningQuiz](./img/Quiz_26-08-2020_ML.JPG "Machine Learning Quiz")
+
+![LiveAMA](./img/Live_AMA_Zoom.JPG "Live AMA in Zoom")
 ___
 ## **Day 44:** 
 
