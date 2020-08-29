@@ -52,6 +52,11 @@ ___
 
 ![Day48](./img/Day48.JPG "Day 48 Slack post")
 
+![Mega_Quiz](./img/MEGA_QUIZ_Score.JPG "Mega Quiz Score")
+
+![Webinar1](./img/Webinar_Damir.JPG "How to Cram Azure ML Foundation Course of Udacity to Under 30 Minutes")
+
+![Webinar2](./img/Webinar_Job_Hunt.JPG "Jon Hunt Webinar")
 ___
 
 ## **Day 47:** 
