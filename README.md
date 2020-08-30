@@ -46,6 +46,17 @@ ___
 ___
 ___
 
+## **Day 49:** 
+
+*Sunday, August 30th, 2020*
+
+![Day49](./img/Day49.JPG "Day 49 Slack post")
+
+![Webinar1](./img/Webinar_Intro_to_ML.JPG "Intro to Machine Learning. Let’s tackle basic concepts")
+
+![Webinar2](./img/Webinar_Computer_Vision.JPG "Deep Learning For Computer Vision")
+___
+
 ## **Day 48:** 
 
 *Saturday, August 29th, 2020*
@@ -56,7 +67,7 @@ ___
 
 ![Webinar1](./img/Webinar_Damir.JPG "How to Cram Azure ML Foundation Course of Udacity to Under 30 Minutes")
 
-![Webinar2](./img/Webinar_Job_Hunt.JPG "Jon Hunt Webinar")
+![Webinar2](./img/Webinar_Job_Hunt.JPG "Job Hunting Webinar")
 ___
 
 ## **Day 47:** 
