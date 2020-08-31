@@ -41,9 +41,17 @@ ___
 | 1st | 10  | [ x ] |
 | 2nd | 25 | [ x ] |
 | 3rd | 40 | [ x ] |
-| End of challenge | 50 | [ ] |
+| End of challenge!!! | 50 | [ x ] |
 
 ___
+___
+
+## **Day 50:** 
+
+*Monday, August 31st, 2020*
+
+![Day50](./img/Day50.JPG "Day 50 Slack post")
+
 ___
 
 ## **Day 49:** 
