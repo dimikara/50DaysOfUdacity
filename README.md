@@ -12,13 +12,13 @@ The premise of the challenge is to build a habit of consistent practice of new s
 
 In order to take part in this challenge, I have to:
 
-- **[x] Take the public pledge** *--> Done*
+- **[ x ] Take the public pledge** *--> Done!*
 
-- **[ ] Code or practice the topics of the Foundation Course for 30 minutes everyday.** *--> In progress*
+- **[ x ] Code or practice the topics of the Foundation Course for 30 minutes everyday.** *--> Done!*
 
-- **[ ] Post a short announcement in the  `#50daysofudacity` Slack channel, summarizing my day and note which day I am on.** *--> In progress*
+- **[ x ] Post a short announcement in the  `#50daysofudacity` Slack channel, summarizing my day and note which day I am on.** *--> Done!*
 
-- **[ ] Encourage &  Support at least 2 peers every day.** *--> In progress*
+- **[ x ] Encourage &  Support at least 2 peers every day.** *--> Done!*
 
 The goal of this page is to track down the above so that I follow my progress easily and make sure not to miss a post, i.e. create my sort of **Captain's Log Book**!
 
