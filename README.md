@@ -33,6 +33,13 @@ ___
 ___
 ___
 
+## **Finish Line**
+
+![Badge](./img/50daysofUdacity_Badge.png "Challenge Completion Badge")
+
+___
+___
+
 ## **Milestones**
 
 
