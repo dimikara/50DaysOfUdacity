@@ -1,3 +1,8 @@
+# #50DaysOfUdacity - The adventure continues
+
+After the extension given for the course (30th of September instead of the 10th), I am continuing to post other things to Slack.
+
+
 # #50DaysOfUdacity
 
 A simple file to keep track of my progress & posts in the `#50daysofudacity` Slack channel, after my acceptance to the Microsoft Azure Machine Learning Scholarship by Microsoft.
