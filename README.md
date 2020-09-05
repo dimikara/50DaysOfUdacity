@@ -1,6 +1,18 @@
-# #50DaysOfUdacity - The adventure continues
+# UPDATE: #50DaysOfUdacity - The adventure continues
 
-After the extension given for the course (30th of September instead of the 10th), I am continuing to post other things to Slack.
+After the extension given for the course (30th of September, instead of the 10th), I will continue to post to in the challenge, including a new one as well: #26daysofconcepts.
+Twenty-six days for 26 letters of the English alphabet, with important terms taken by the scholarship course or the field of Machine Learning in general.
+
+## **Day 51:** 
+
+*Friday, September 4th, 2020*
+
+![Day51](./img/Day51.JPG "Day 51 Slack post")
+
+
+___
+
+
 
 
 # #50DaysOfUdacity
