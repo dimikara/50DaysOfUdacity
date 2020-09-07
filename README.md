@@ -1,7 +1,16 @@
 # UPDATE: #50DaysOfUdacity - The adventure continues
 
 After the extension given for the course (30th of September, instead of the 10th), I will continue to post to in the challenge, including a new one as well: #26daysofconcepts.
-Twenty-six days for the 26 letters of the English alphabet, each with important terms taken by the scholarship course or the field of Machine Learning in general.
+
+Twenty-six days for the 26 letters of the English alphabet, each with important terms taken from the scholarship course or the field of Machine Learning in general.
+
+___
+
+## **Day 54 & 4/26:** 
+
+*Monday, September 7th, 2020*
+
+![Day54/4](./img/Day54.JPG "Day 54/4 Slack post")
 
 ___
 
