@@ -6,6 +6,16 @@ Twenty-six days for the 26 letters of the English alphabet, each with important 
 
 ___
 
+## **Day 56 & 6/26:** 
+
+*Wednesday, September 9th, 2020*
+
+![Day56/6](./img/Day56.JPG "Day 56/6 Slack post")
+
+![LiveAMA](./img/LiveAMA_09_09_2020.JPG "Live AMA 09/09/2020")
+
+___
+
 ## **Day 55 & 5/26:** 
 
 *Tuesday, September 8th, 2020*
