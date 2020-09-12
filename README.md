@@ -11,7 +11,7 @@ ___
 *Friday, September 11th, 2020*
 
 ![Day58/8](./img/Day58.JPG "Day 58/8 Slack post")
-
+![Day58/8](./img/Day58_2.JPG "Day 8 of 26DaysOfConcepts) Slack post")
 ___
 
 ## **Day 57 & 7/26:** 
