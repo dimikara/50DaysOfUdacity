@@ -12,6 +12,11 @@ ___
 
 ![Day59/9](./img/Day59.JPG "Day 59/9 Slack post")
 
+***Machine Learning Quiz 1***
+
+*Not bad but could (should) definitely do better!*
+
+![Day59/9](./img/Day59_Quiz.JPG "Day 59/9 Slack post")
 ___
 
 ## **Day 58 & 8/26:** 
