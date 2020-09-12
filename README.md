@@ -19,6 +19,10 @@ ___
 *Friday, September 11th, 2020*
 
 ![Day58/8](./img/Day58.JPG "Day 58/8 Slack post")
+
+***One of the main takeways from the workshop***
+![Day58/8](./img/Process_not_Output.JPG "Day 58/8 Slack post")
+
 ![Day58/8](./img/Day58_2.JPG "Day 8 of 26DaysOfConcepts) Slack post")
 ___
 
