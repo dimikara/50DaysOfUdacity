@@ -6,6 +6,14 @@ Twenty-six days for the 26 letters of the English alphabet, each with important 
 
 ___
 
+## **Day 60 & 10/26:** 
+
+*Sunday, September 13th, 2020*
+
+![Day60/10](./img/Day60.JPG "Day 60 Slack post")
+
+___
+
 ## **Day 59 & 9/26:** 
 
 *Saturday, September 12th, 2020*
@@ -14,7 +22,7 @@ ___
 
 ***Machine Learning Quiz 1***
 
-*Not bad but could (should) definitely do better!*
+*Not bad but ~~could~~ should definitely do better!*
 
 ![Day59/9](./img/Day59_Quiz.JPG "Day 59/9 Slack post")
 ___
