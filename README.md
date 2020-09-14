@@ -6,11 +6,11 @@ Twenty-six days for the 26 letters of the English alphabet, each with important 
 
 ___
 
-## **Day 60 & 10/26:** 
+## **Days 60+61 & 10+11/26:** 
 
-*Sunday, September 13th, 2020*
+*Monday & Sunday, September 13th-14th, 2020*
 
-![Day60/10](./img/Day60.JPG "Day 60 Slack post")
+![Days60+61/10+11](./img/Day60+61.JPG "Days 60+61 Slack post")
 
 ___
 
