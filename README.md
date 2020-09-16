@@ -1,8 +1,8 @@
 # UPDATE: #50DaysOfUdacity - The adventure continues
 
-After the extension given for the course (30th of September, instead of the 10th), I will continue to post to in the challenge, including a new one as well: #26daysofconcepts.
+After the extension given for the course (30th of September, instead of the 10th), I will continue to post in the challenge, including a new one as well: #26DaysOfConcepts.
 
-Twenty-six days for the 26 letters of the English alphabet, each with important terms taken from the scholarship course or the field of Machine Learning in general.
+Twenty-six days for the 26 letters of the English alphabet, each with important terms taken from the scholarship course and/or the field of Machine Learning in general.
 
 ___
 
