@@ -12,6 +12,10 @@ ___
 
 ![Day62/12](./img/Day62.JPG "Day 62/12 Slack post")
 
+
+![Day62/12](./img/Total_Recall_Quiz.JPG "Day 62/12 Slack post")
+![Day62/12](./img/Voting_in_Student_Stories.JPG "Day 62/12 Slack post")
+
 ___
 
 ## **Days 60+61 & 10+11/26:** 
