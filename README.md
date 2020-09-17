@@ -6,6 +6,14 @@ Twenty-six days for the 26 letters of the English alphabet, each with important 
 
 ___
 
+## **Day 63 & 13/26:** 
+
+*Wednesday, September 16th, 2020*
+
+![Day63/13](./img/Day63.JPG "Day 63/13 Slack post")
+
+___
+
 ## **Day 62 & 12/26:** 
 
 *Tuesday, September 15th, 2020*
