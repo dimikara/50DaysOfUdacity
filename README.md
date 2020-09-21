@@ -6,6 +6,21 @@ Twenty-six days for the 26 letters of the English alphabet, each with important 
 
 ___
 
+## **Day 67 & 17/27:** 
+
+*Sunday, September 20th, 2020*
+
+![Day67/17](./img/Day67.JPG "Day 67/1\ Slack post")
+
+
+![Day67/17](./img/Study_Jam3.0-3.JPG "Webinar - Business & Humanitarian Use Cases of AI")
+![Day67/17](./img/Study_Jam3.0-2.png "Study Jam Quiz")
+
+![Day67/17](./img/Study_Jam3.0-1.png "Crash Course Attendance Certificate")
+
+![Day67/17](./img/Study_Jam3.0-4.JPG "Webinar - Business & Humanitarian Use Cases of AI")
+___
+
 ## **Day 66 & 16/26:** 
 
 *Saturday, September 19th, 2020*
@@ -46,7 +61,7 @@ ___
 
 
 ![Day62/12](./img/Total_Recall_Quiz.JPG "Day 62/12 Slack post")
-![Day62/12](./img/Voting_in_Student_Stories.JPG "Day 62/12 Slack post")
+![Day62/12](./img/Voting_in_Student_Stories.JPG "Day 62/12 - Voting in Student Stories")
 
 ___
 
