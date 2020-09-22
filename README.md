@@ -29,6 +29,9 @@ ___
 ![Day67/17](./img/Day67.JPG "Day 67 Slack post")
 ![Day67/17](./img/Day67B.JPG "Day 17 of 26 DaysOfConcepts Slack post")
 
+***Tambola during Study Jam 3.0: I didn't win but it was so much fun!***
+![Day67/17](./img/Study_Jam3.0-5.JPG "Tambola!")
+
 ![Day67/17](./img/Study_Jam3.0-3.JPG "Webinar - Business & Humanitarian Use Cases of AI")
 ![Day67/17](./img/Study_Jam3.0-2.png "Study Jam Quiz")
 
