@@ -6,11 +6,11 @@ Twenty-six days for the 26 letters of the English alphabet, each with important 
 
 ___
 
-## **Day 69 & 19/27:** 
+## **Days 69-70 & 19-20/27:** 
 
-*Tuesday, September 22nd, 2020*
+*Tuesday & Wednesday, September 22nd & 23rd, 2020*
 
-![Day69/19](./img/Day69.JPG "Day 69/19 Slack post")
+![Day69-70/19](./img/Day69-70.JPG "Day 69-70/19-20 Slack post")
 
 ___
 
