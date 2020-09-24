@@ -10,7 +10,12 @@ ___
 
 *Tuesday & Wednesday, September 22nd & 23rd, 2020*
 
-![Day69-70/19](./img/Day69-70.JPG "Day 69-70/19-20 Slack post")
+![Day69-70/19](./img/Days69+70C.JPG "Day 69-70/19-20 Slack post")
+
+![Day69-70/19](./img/Days69+70_SPAIC.JPG "SPAIC Definition")
+
+![Day69-70/19](./img/Days69+70_End_of_Program_Survey.JPG "End of Program Survey")
+
 
 ___
 
