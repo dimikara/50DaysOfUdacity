@@ -6,6 +6,18 @@ Twenty-six days for the 26 letters of the English alphabet, each with important 
 
 ___
 
+## **Day 73 & 23/27:** 
+
+*Saturday, September 26th, 2020*
+
+![Day73/23](./img/Day73.JPG "Day 73/23 Slack post")
+
+![Day73/23](./img/ALL_DAY_LONG_ML.JPG "All Day ML Attendee Check-in Form")
+
+![Day73/23](./img/Day73_Quiz.JPG "One of the quizzes I participated to")
+
+___
+
 ## **Day 72 & 22/27:** 
 
 *Friday, September 25th, 2020*
