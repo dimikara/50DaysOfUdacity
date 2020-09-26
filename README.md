@@ -12,6 +12,7 @@ ___
 
 ![Day72/22](./img/Day72.JPG "Day 72/22 Slack post")
 
+![Day72/22](./img/Day72_Did_you_know.JPG "Last issue of 'Did You Know'")
 ___
 
 ## **Day 71 & 21/27:** 
