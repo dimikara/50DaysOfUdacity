@@ -13,9 +13,11 @@ ___
 ![Day74/24](./img/Day74.JPG "Day 74/24 Slack post")
 
 ***Mega Quiz during ALL DAY ML***
+
 ![Day74/24](./img/Day74_ALL_DAY_ML_Quiz.JPG "Mega Quiz during ALL DAY ML")
 
 ***Tambola Game***
+
 ![Day74/24](./img/Day74_Tambola2.JPG "Tambola Game")
 
 ___
@@ -27,9 +29,11 @@ ___
 ![Day73/23](./img/Day73.JPG "Day 73/23 Slack post")
 
 ***ALL DAY ML Attendee Check-in Form***
+
 ![Day73/23](./img/ALL_DAY_LONG_ML.JPG "All Day ML Attendee Check-in Form")
 
 ***One of the quizzes I participated into***
+
 ![Day73/23](./img/Day73_Quiz.JPG "One of the quizzes I participated to")
 
 ___
@@ -80,6 +84,7 @@ ___
 ![Day67/17](./img/Day67B.JPG "Day 17 of 26 DaysOfConcepts Slack post")
 
 ***Tambola during Study Jam 3.0: I didn't win but it was so much fun!***
+
 ![Day67/17](./img/Study_Jam3.0-5.JPG "Tambola!")
 
 ![Day67/17](./img/Study_Jam3.0-3.JPG "Webinar - Business & Humanitarian Use Cases of AI")
@@ -162,6 +167,7 @@ ___
 ![Day58/8](./img/Day58.JPG "Day 58/8 Slack post")
 
 ***One of the main takeways from the workshop***
+
 ![Day58/8](./img/Process_not_Output.JPG "Day 58/8 Slack post")
 
 ![Day58/8](./img/Day58_2.JPG "Day 8 of 26DaysOfConcepts) Slack post")
