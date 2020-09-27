@@ -29,7 +29,7 @@ ___
 ***ALL DAY ML Attendee Check-in Form***
 ![Day73/23](./img/ALL_DAY_LONG_ML.JPG "All Day ML Attendee Check-in Form")
 
-***One of the quizzes I participated to***
+***One of the quizzes I participated into***
 ![Day73/23](./img/Day73_Quiz.JPG "One of the quizzes I participated to")
 
 ___
