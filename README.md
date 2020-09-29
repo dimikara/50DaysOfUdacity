@@ -12,6 +12,7 @@ ___
 
 ![Day75/25](./img/Day75.JPG "Day 75/25 Slack post")
 
+![Day75/25](./img/Day75B.JPG "Post for the Day 25 of #26DaysOfConcepts")
 ___
 
 ## **Day 74 & 24/27:** 
