@@ -6,6 +6,27 @@ Twenty-six days for the 26 letters of the English alphabet, each with important 
 
 ___
 
+
+## **Day 77:** 
+
+*Tuesday, September 29th, 2020*
+
+![Day77](./img/Day77.JPG "Day 77 Slack post")
+
+***Tambola again***
+
+![Day77](./img/Day77B.JPG "Tambola - third try")
+
+***Final Party!***
+
+![Day77](./img/FinalParty1.JPG "Final Party!")
+
+![Day77](./img/FinalParty3.JPG "Final Party!")
+
+![Day77](./img/FinalParty4.JPG "Final Party!")
+
+___
+
 ## **Day 76 & 26/27:** 
 
 *Tuesday, September 29th, 2020*
