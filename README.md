@@ -33,6 +33,8 @@ ___
 
 ![Day76/26](./img/Day76.JPG "Day 76/26 Slack post")
 
+***Last post of #26DaysOfConcepts***
+
 ![Day76/26](./img/Day76B.JPG "26 Days Of Concepts - Last post")
 
 ___
