@@ -5,6 +5,14 @@ After the extension given for the course (30th of September, instead of the 10th
 Twenty-six days for the 26 letters of the English alphabet, each with important terms taken from the scholarship course and/or the field of Machine Learning in general.
 
 ___
+___
+
+## **#26DaysOfConcepts: the final glossary!**
+
+You can download it by clicking the image below:
+
+<a href="26DaysOfConcepts_ML_Glossary.pdf"><img src="img/26DaysOfConcepts_ML_Glossary.JPG" alt="The final glossary in PDF form"></a>
+___
 
 
 ## **Day 77: My final post!** 
