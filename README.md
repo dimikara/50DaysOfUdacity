@@ -11,7 +11,7 @@ ___
 
 You can download it by clicking the image below:
 
-<a href="26DaysOfConcepts_ML_Glossary.pdf"><img src="img/26DaysOfConcepts_ML_Glossary.JPG" alt="The final glossary in PDF form"></a>
+<a href="26DaysOfConcepts_ML_Glossary.pdf" type="application/pdf"><img src="img/26DaysOfConcepts_ML_Glossary.JPG" alt="The final glossary in PDF form"></a>
 ___
 
 
