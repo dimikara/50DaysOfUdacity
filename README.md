@@ -40,7 +40,7 @@ ___
 
 ___
 
-## **Day 76 & 26/27:** 
+## **Day 76 & 26/26:** 
 
 *Tuesday, September 29th, 2020*
 
@@ -52,7 +52,7 @@ ___
 
 ___
 
-## **Day 75 & 25/27:** 
+## **Day 75 & 25/26:** 
 
 *Monday, September 28th, 2020*
 
@@ -61,7 +61,7 @@ ___
 ![Day75/25](./img/Day75B.JPG "Post for the Day 25 of #26DaysOfConcepts")
 ___
 
-## **Day 74 & 24/27:** 
+## **Day 74 & 24/26:** 
 
 *Sunday, September 27th, 2020*
 
@@ -77,7 +77,7 @@ ___
 
 ___
 
-## **Day 73 & 23/27:** 
+## **Day 73 & 23/26:** 
 
 *Saturday, September 26th, 2020*
 
@@ -93,7 +93,7 @@ ___
 
 ___
 
-## **Day 72 & 22/27:** 
+## **Day 72 & 22/26:** 
 
 *Friday, September 25th, 2020*
 
@@ -102,7 +102,7 @@ ___
 ![Day72/22](./img/Day72_Did_you_know.JPG "Last issue of 'Did You Know'")
 ___
 
-## **Day 71 & 21/27:** 
+## **Day 71 & 21/26:** 
 
 *Thursday, September 24th, 2020*
 
@@ -110,7 +110,7 @@ ___
 
 ___
 
-## **Days 69-70 & 19-20/27:** 
+## **Days 69-70 & 19-20/26:** 
 
 *Tuesday & Wednesday, September 22nd & 23rd, 2020*
 
@@ -123,7 +123,7 @@ ___
 
 ___
 
-## **Day 68 & 18/27:** 
+## **Day 68 & 18/26:** 
 
 *Monday, September 21st, 2020*
 
@@ -131,7 +131,7 @@ ___
 
 ___
 
-## **Day 67 & 17/27:** 
+## **Day 67 & 17/26:** 
 
 *Sunday, September 20th, 2020*
 
