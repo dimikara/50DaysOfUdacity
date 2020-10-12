@@ -284,6 +284,9 @@ ___
 
 ![Day51/1](./img/Day51.JPG "Day 51/1 Slack post")
 
+***Grateful Friday initiative!***
+
+![Day51/1](./img/Day51_Grateful.JPG "Grateful Friday Slack post")
 ___
 
 
