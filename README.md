@@ -1,3 +1,18 @@
+# UPDATE: The adventure continues even further but in a new form
+
+***Tuesday, October 13th, 2020***
+
+Today I received the **exciting news**!
+
+![Scholarship](./img/Scholarship_Email.JPG "Full Scholarship Recipient Badge")
+
+
+![Scholarship](./img/Microsoft+ND+Recipient+Badge.jpg "Full Scholarship Recipient Badge")
+
+
+___
+___
+
 # UPDATE: #50DaysOfUdacity - The adventure continues
 
 After the extension given for the course (30th of September, instead of the 10th), I will continue to post in the challenge, including a new one as well: #26DaysOfConcepts.
