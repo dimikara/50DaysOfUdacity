@@ -1,4 +1,4 @@
-# UPDATE: The adventure continues even further but in a new form
+# UPDATE: The adventure continues even further in a new form
 
 ***Tuesday, October 13th, 2020***
 
@@ -63,7 +63,7 @@ ___
 
 ***Last post of #26DaysOfConcepts***
 
-![Day76/26](./img/Day76B.JPG "26 Days Of Concepts - Last post")
+![Day76/26](./img/Day76Β.JPG "26 Days Of Concepts - Last post")
 
 ___
 
