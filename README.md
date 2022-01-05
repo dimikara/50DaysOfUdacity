@@ -1,3 +1,5 @@
+![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
+
 # UPDATE: The adventure continues even further in a new form
 
 ***Tuesday, October 13th, 2020***
